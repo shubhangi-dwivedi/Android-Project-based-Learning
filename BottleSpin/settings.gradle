@@ -1,0 +1,2 @@
+rootProject.name = "Bottle Spin"
+include ':app'
